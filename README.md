@@ -1,5 +1,5 @@
 # Senior-Javascript-video-player-developer
-Make a pull request on our team
+Create a pull request on our team
 
 Developers wanted - Amsterdam - full-time
 
@@ -28,6 +28,6 @@ As a senior Javascript video player developer, you dream in low-level Javascript
 - Proficient in spoken and written English
 
 
-Contact us and send your resume to jobs@liveryvideo.com Don't worry, it is as easy as making a pull request :-)
+Contact us and send your resume to jobs@liveryvideo.com Don't worry, it is as easy as creating a pull request :-)
 
 Direct applications only; No agencies please.
